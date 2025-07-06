@@ -34,7 +34,7 @@ This project is a machine learning-based regression model that predicts medical 
 
 ### How to Run
 
-### Clone the Repository
+# Clone the Repository
 ```bash
 git clone https://github.com/your-username/Medical-Insurance-Cost-Prediction.git
 cd Medical-Insurance-Cost-Prediction
